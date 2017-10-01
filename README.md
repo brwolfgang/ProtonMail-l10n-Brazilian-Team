@@ -1,4 +1,4 @@
-# pm-l10n-br-team
+# ProtonMail-l10n-Brazilian-Team
 
 > A Vue.js project
 
